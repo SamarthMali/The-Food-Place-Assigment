@@ -44,8 +44,8 @@
     }
 
   .header_section{
-    width: 28%;
-    height: 60%;
+    width: 56%;
+    height: 54%;
   }
 
   header{
@@ -141,7 +141,7 @@
 }
 .itemsAll{
     transform: scale(0.9);
-    margin-left: 5px;
+    margin-left: 14px;
 }
 
 
